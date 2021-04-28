@@ -1,0 +1,9 @@
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\bin\Release\KochSnowflake real.exe
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\bin\Release\KochSnowflake real.pdb
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Release\KochSnowflake.Form1.resources
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Release\KochSnowflake.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Release\KochSnowflake real.exe
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Release\KochSnowflake real.pdb

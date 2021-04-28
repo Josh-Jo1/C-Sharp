@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\bin\Debug\Optimization Of Rectangular Box.exe.config
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\bin\Debug\Optimization Of Rectangular Box.exe
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\bin\Debug\Optimization Of Rectangular Box.pdb
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization_Of_Rectangular_Box.Form1.resources
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization_Of_Rectangular_Box.Properties.Resources.resources
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.exe
+C:\Users\User\source\repos\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.pdb
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\bin\Debug\Optimization Of Rectangular Box.exe.config
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\bin\Debug\Optimization Of Rectangular Box.exe
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\bin\Debug\Optimization Of Rectangular Box.pdb
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.csprojAssemblyReference.cache
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization_Of_Rectangular_Box.Form1.resources
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization_Of_Rectangular_Box.Properties.Resources.resources
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.csproj.GenerateResource.cache
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.csproj.CoreCompileInputs.cache
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.exe
+C:\C#\Optimization Of Rectangular Box\Optimization Of Rectangular Box\obj\Debug\Optimization Of Rectangular Box.pdb

@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\bin\Debug\Pascals Triangle and Sierpinski Triangle.exe.config
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\bin\Debug\Pascals Triangle and Sierpinski Triangle.exe
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\bin\Debug\Pascals Triangle and Sierpinski Triangle.pdb
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals_Triangle_and_Sierpinski_Triangle.TrianglesForm.resources
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals_Triangle_and_Sierpinski_Triangle.Properties.Resources.resources
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.exe
+C:\Users\User\source\repos\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.pdb
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\bin\Debug\Pascals Triangle and Sierpinski Triangle.exe.config
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\bin\Debug\Pascals Triangle and Sierpinski Triangle.exe
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\bin\Debug\Pascals Triangle and Sierpinski Triangle.pdb
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.csprojAssemblyReference.cache
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals_Triangle_and_Sierpinski_Triangle.TrianglesForm.resources
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals_Triangle_and_Sierpinski_Triangle.Properties.Resources.resources
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.csproj.GenerateResource.cache
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.csproj.CoreCompileInputs.cache
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.exe
+C:\C#\Pascals Triangle and Sierpinski Triangle\Pascals Triangle and Sierpinski Triangle\obj\Debug\Pascals Triangle and Sierpinski Triangle.pdb

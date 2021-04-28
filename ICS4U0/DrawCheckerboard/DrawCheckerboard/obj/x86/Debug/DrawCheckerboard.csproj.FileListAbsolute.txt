@@ -1,0 +1,84 @@
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.DrawCheckerboardForm.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.DrawCheckerboardForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.Cache
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.DrawCheckerboardForm.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.Cache
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.DrawCheckerboardForm.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csprojAssemblyReference.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\CSharp for Students\6. Vectors and Graphics\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\SimpleGDIPlusExample.DrawGridForm.resources
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\SimpleGDIPlusExample.DrawGridForm.resources
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\User\source\repos\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\C#\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\C#\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\C#\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csprojAssemblyReference.cache
+C:\C#\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\SimpleGDIPlusExample.DrawGridForm.resources
+C:\C#\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\C#\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.cache
+C:\C#\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.CoreCompileInputs.cache
+C:\C#\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\C#\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csprojAssemblyReference.cache
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\SimpleGDIPlusExample.DrawGridForm.resources
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.cache
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.CoreCompileInputs.cache
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\C#\Grade 11\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csprojAssemblyReference.cache
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\SimpleGDIPlusExample.DrawGridForm.resources
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.cache
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.CoreCompileInputs.cache
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\C#\Grade 12\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csprojAssemblyReference.cache
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\SimpleGDIPlusExample.DrawGridForm.resources
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.cache
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.CoreCompileInputs.cache
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\C#\ICS4U0\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb

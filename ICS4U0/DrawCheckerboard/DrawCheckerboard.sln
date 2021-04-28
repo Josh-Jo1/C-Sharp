@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawCheckerboard", "DrawCheckerboard\DrawCheckerboard.csproj", "{AA3A49E4-4D76-4D9C-80DD-4C7DA223794E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3A49E4-4D76-4D9C-80DD-4C7DA223794E}.Debug|x86.ActiveCfg = Debug|x86
+		{AA3A49E4-4D76-4D9C-80DD-4C7DA223794E}.Debug|x86.Build.0 = Debug|x86
+		{AA3A49E4-4D76-4D9C-80DD-4C7DA223794E}.Release|x86.ActiveCfg = Release|x86
+		{AA3A49E4-4D76-4D9C-80DD-4C7DA223794E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

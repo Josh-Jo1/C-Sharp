@@ -1,0 +1,9 @@
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\bin\Debug\KochSnowflake.exe
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\bin\Debug\KochSnowflake.pdb
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\obj\x86\Debug\KochSnowflake.Form1.resources
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\obj\x86\Debug\KochSnowflake.Properties.Resources.resources
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\obj\x86\Debug\KochSnowflake.exe
+C:\Documents and Settings\700745\Local Settings\Application Data\Temporary Projects\KochSnowflake\obj\x86\Debug\KochSnowflake.pdb

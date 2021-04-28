@@ -1,0 +1,23 @@
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.DrawCheckerboardForm.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.DrawCheckerboardForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.Cache
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\bin\Debug\DrawCheckerboard.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.DrawCheckerboardForm.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\DrawCheckerboard\DrawCheckerboard\obj\x86\Debug\DrawCheckerboard.csproj.GenerateResource.Cache

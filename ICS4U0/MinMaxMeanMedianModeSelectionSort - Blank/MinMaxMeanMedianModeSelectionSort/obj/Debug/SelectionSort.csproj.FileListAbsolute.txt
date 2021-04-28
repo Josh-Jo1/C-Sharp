@@ -1,0 +1,10 @@
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2017\Source\Repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.SelectionSortForm.resources

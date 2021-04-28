@@ -1,0 +1,30 @@
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.exe.config
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.pdb
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csprojAssemblyReference.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.Form1.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csproj.GenerateResource.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.exe
+C:\Users\stopf\OneDrive\Visual Studio 2017\Source\Repos\ICS4U0\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.pdb
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.exe.config
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.exe
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.pdb
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.Form1.resources
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.Properties.Resources.resources
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.exe
+C:\Users\User\source\repos\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.pdb
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.exe.config
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.exe
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\bin\Debug\GenerateLabelsOnTheFly.pdb
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csprojAssemblyReference.cache
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.Form1.resources
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.Properties.Resources.resources
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csproj.GenerateResource.cache
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.csproj.CoreCompileInputs.cache
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.exe
+C:\C#\GenerateLabelsOnTheFly\GenerateLabelsOnTheFly\obj\Debug\GenerateLabelsOnTheFly.pdb

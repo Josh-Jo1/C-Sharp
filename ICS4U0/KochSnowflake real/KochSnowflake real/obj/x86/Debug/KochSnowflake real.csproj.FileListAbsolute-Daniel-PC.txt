@@ -1,0 +1,17 @@
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\bin\Debug\KochSnowflake real.exe
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\bin\Debug\KochSnowflake real.pdb
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake.Form1.resources
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake.Properties.Resources.resources
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake real.exe
+G:\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake real.pdb
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake real.exe
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake real.pdb
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\bin\Debug\KochSnowflake real.exe
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\bin\Debug\KochSnowflake real.pdb
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake.Form1.resources
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake real.csproj.GenerateResource.Cache
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\KochSnowflake real\KochSnowflake real\obj\x86\Debug\KochSnowflake real.csprojResolveAssemblyReference.cache

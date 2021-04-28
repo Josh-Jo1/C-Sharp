@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Chapter9App\Chapter9App\bin\Debug\Chapter9App.exe.config
+C:\Users\User\source\repos\Chapter9App\Chapter9App\bin\Debug\Chapter9App.exe
+C:\Users\User\source\repos\Chapter9App\Chapter9App\bin\Debug\Chapter9App.pdb
+C:\Users\User\source\repos\Chapter9App\Chapter9App\obj\Debug\Chapter9App.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Chapter9App\Chapter9App\obj\Debug\Chapter9App.Properties.Resources.resources
+C:\Users\User\source\repos\Chapter9App\Chapter9App\obj\Debug\Chapter9App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Chapter9App\Chapter9App\obj\Debug\Chapter9App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chapter9App\Chapter9App\obj\Debug\Chapter9App.exe
+C:\Users\User\source\repos\Chapter9App\Chapter9App\obj\Debug\Chapter9App.pdb
+C:\Users\User\source\repos\Chapter9App\Chapter9App\obj\Debug\Chapter9App.Form1.resources
